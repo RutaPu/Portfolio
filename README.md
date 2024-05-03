@@ -1,6 +1,7 @@
 **Courses**
 
-Automated and manual testing of information systems and artificial intelligence (AI)
+**Automated and manual testing of information systems and artificial intelligence (AI)**
+
 03/25/2024 - 05/17/2024
 
 1. Introduction to System Testing, Static and Dynamic Testing (26 hrs).
