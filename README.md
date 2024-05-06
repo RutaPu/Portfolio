@@ -13,7 +13,7 @@
 
 Test scenarios, cases and bugs reports in Jira:
 - Test scenario for checking bigbox.lt (in Lithuanian). Check the Google Sheets document [here](https://docs.google.com/spreadsheets/d/1GEb5afBXQ4Os_cNt034XrxW6B5AM8wWwBTPPFhz3yYs/edit?usp=sharing/).
-- Test case for checking the quantity of the product you are allowed to buy in Ārpus Brewing Co in Lithuanian). Check the Google Sheets document [here](https://docs.google.com/spreadsheets/d/1GEb5afBXQ4Os_cNt034XrxW6B5AM8wWwBTPPFhz3yYs/edit?usp=sharing/).
+- Test case for checking the quantity of the product you are allowed to buy in Ārpus Brewing Co (in Lithuanian). Check the Google Sheets document [here](https://docs.google.com/spreadsheets/d/1GEb5afBXQ4Os_cNt034XrxW6B5AM8wWwBTPPFhz3yYs/edit?usp=sharing/).
 - Bugs report (in Lithuanian). Check the Google Sheets document [here](https://docs.google.com/spreadsheets/d/1GEb5afBXQ4Os_cNt034XrxW6B5AM8wWwBTPPFhz3yYs/edit?usp=sharing/).
 
 
